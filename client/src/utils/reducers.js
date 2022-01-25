@@ -94,6 +94,6 @@ export const reducer = (state = appState, action) => {
   }
 };
 
-export function useProductReducer(initialState) {
+/*export function useProductReducer(initialState) {
   return useReducer(reducer, initialState)
-}
+} */
